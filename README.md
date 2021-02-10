@@ -4,7 +4,7 @@
 ### ABOUT
 京子シオリ [kyohko@shiori.dev](mailto:kyohko@shiori.dev?subject=[GitHub%20-%20shioridotdev])  
 
-[Gist Account Profil](https://github.com/shioridotdev)  
+[GitHub Account Profil](https://github.com/shioridotdev)  
 [Gist Account Profil](https://gist.github.com/shioridotdev)  
 [Twitter Account Profil](https://twitter.com/shioridotdev)  
 [Twitch Account Profil](https://twitch.tv/shioridotdev)  
